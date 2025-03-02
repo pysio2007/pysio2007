@@ -172,6 +172,9 @@ Network Information:
     <a href="https://www.mongodb.com/">
         <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     </a>
+    <a href="https://curl.se/">
+        <img src="https://img.shields.io/badge/curl-%23073551.svg?style=for-the-badge&logo=curl&logoColor=white" alt="curl"/>
+    </a>
 </div>
 
 ## 📊 编程时间统计
