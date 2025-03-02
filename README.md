@@ -10,21 +10,29 @@
     <img src="https://blogapi.pysio.online/check/svg" alt="在线状态"/>
 </div>
 
-## 🐧 操作系统
+## 🐧 系统信息
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://archlinux.org/">
         <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
     </a>
-    <pre style="margin: 0; background: transparent;">
-<span style="color: #1793D1">      /\      
-     /  \     
-    /    \    
-   /      \   
-  /   ,,   \  
- /   |  |   \ 
-/_-''    ''-_\</span>
-</pre>
 </div>
+
+```bash
+      /\              pysio@PysioDevPC
+     /  \             -------------
+    /    \            OS: Arch Linux x86_64
+   /      \           Shell: bash 5.2.37
+  /   ,,   \          DE: KDE Plasma
+ /   |  |   \         Kernel: 6.13.4-arch1-1
+/_-''    ''-_\        
+
+CPU: 2× AMD EPYC 7K62 (96C/192T) @ 2.6GHz (↑3.3GHz)
+GPU: NVIDIA GeForce RTX 4060
+Memory: 512GB DDR4 ECC
+Storage: 
+  └─ /: 1TB NVMe SSD
+  └─ /data: 16TB RAID 5 Array
+```
 
 ## ⚡ 技术栈
 
@@ -116,5 +124,7 @@
 <div align="center">
     <img src="https://count.getloli.com/get/@pysio2007?theme=rule34" alt="访问次数"/>
 </div>
+
+
 
 ⭐️ From [pysio2007](https://github.com/pysio2007)
