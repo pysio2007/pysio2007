@@ -152,6 +152,12 @@ Network Information:
     <a href="mailto:qq593277393@outlook.com">
         <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
     </a>
+    <a href="https://t.me/Pysio07">
+        <img src="https://img.shields.io/badge/Telegram-@Pysio07-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="https://steamcommunity.com/profiles/76561198412338808/">
+        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+    </a>
 </div>
 
 ## 📈 GitHub 统计
