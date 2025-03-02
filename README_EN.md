@@ -1,21 +1,21 @@
-简体中文 | [English](README_EN.md)
+[简体中文](README.md) | English
 
 # 👋 Hi there, I'm pysio2007
 
-## 🌟 关于我
-- 📫 邮箱: qq593277393@outlook.com
-- 🌱 我正在学习和成长中...
-- 💻 热爱编程，专注前端开发
-- 🌐 BGP Player | AS213605 运营者
-- 🔗 运营个人网络 | IPv6 Only + Anycast
-- 🏠 个人主页：[Pysio's Home](https://www.pysio.online)
+## 🌟 About Me
+- 📫 Email: qq593277393@outlook.com
+- 🌱 Always learning and growing...
+- 💻 Passionate about programming, focused on frontend development
+- 🌐 BGP Player | AS213605 Operator
+- 🔗 Operating Personal Network | IPv6 Only + Anycast
+- 🏠 Homepage: [Pysio's Home](https://www.pysio.online)
 
-## 🟢 在线状态
+## 🟢 Online Status
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://blogapi.pysio.online/check/svg" alt="在线状态"/>
+    <img src="https://blogapi.pysio.online/check/svg" alt="Online Status"/>
 </div>
 
-## 🐧 系统信息
+## 🐧 System Information
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://archlinux.org/">
         <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
@@ -39,7 +39,7 @@ Storage:
   └─ /data: 16TB RAID 5 Array
 ```
 
-## 🌐 网络信息
+## 🌐 Network Information
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://bgp.tools/as/213605">
         <img src="https://img.shields.io/badge/AS213605-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS213605"/>
@@ -74,9 +74,9 @@ Network Information:
       └─ IPv6 Only Network
 ```
 
-## ⚡ 技术栈
+## ⚡ Tech Stack
 
-### 💻 编程语言
+### 💻 Programming Languages
 <div style="display: flex; gap: 10px;">
     <a href="https://www.typescriptlang.org/">
         <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -92,7 +92,7 @@ Network Information:
     </a>
 </div>
 
-### 🛠️ 开发工具
+### 🛠️ Development Tools
 <div style="display: flex; gap: 10px;">
     <a href="https://www.jetbrains.com/webstorm/">
         <img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
@@ -108,7 +108,7 @@ Network Information:
     </a>
 </div>
 
-### 🌐 前端技术
+### 🌐 Frontend Technologies
 <div style="display: flex; gap: 10px;">
     <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -124,7 +124,7 @@ Network Information:
     </a>
 </div>
 
-### 📱 其他技能
+### 📱 Other Skills
 <div style="display: flex; gap: 10px;">
     <a href="https://www.docker.com/">
         <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -137,14 +137,14 @@ Network Information:
     </a>
 </div>
 
-## 📊 编程时间统计
+## 📊 Coding Time Stats
 <div style="max-width: 600px; margin: 0 auto;">
     <a href="https://wakatime.com">
         <img src="https://wakatime.com/share/@a8344004-6b9a-4a56-8b71-e626b395781c/515c7e41-d28d-40cb-844c-fcbbc5fa7b5e.png" style="width: 100%; height: auto;" />
     </a>
 </div>
 
-## 🤝 联系我
+## 🤝 Contact Me
 <div style="display: flex; gap: 10px;">
     <a href="https://github.com/pysio2007">
         <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -154,7 +154,7 @@ Network Information:
     </a>
 </div>
 
-## 📈 GitHub 统计
+## 📈 GitHub Stats
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=pysio2007&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 400px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pysio2007&layout=compact&theme=radical" alt="Top Languages" style="max-width: 300px;" />
@@ -162,9 +162,7 @@ Network Information:
 
 ---
 <div align="center">
-    <img src="https://count.getloli.com/get/@pysio2007?theme=rule34" alt="访问次数"/>
+    <img src="https://count.getloli.com/get/@pysio2007?theme=rule34" alt="Visitor Count"/>
 </div>
 
-
-
-⭐️ From [pysio2007](https://github.com/pysio2007)
+⭐️ From [pysio2007](https://github.com/pysio2007) 
