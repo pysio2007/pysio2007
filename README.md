@@ -1,3 +1,120 @@
-# Hi
-My E-Mail : qq593277393@outlook.com 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@a8344004-6b9a-4a56-8b71-e626b395781c/515c7e41-d28d-40cb-844c-fcbbc5fa7b5e.png" /></a>
+# 👋 Hi there, I'm pysio2007
+
+## 🌟 关于我
+- 📫 邮箱: qq593277393@outlook.com
+- 🌱 我正在学习和成长中...
+- 💻 热爱编程，专注前端开发
+
+## 🟢 在线状态
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://blogapi.pysio.online/check/svg" alt="在线状态"/>
+</div>
+
+## 🐧 操作系统
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://archlinux.org/">
+        <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+    </a>
+    <pre style="margin: 0; background: transparent;">
+<span style="color: #1793D1">      /\      
+     /  \     
+    /    \    
+   /      \   
+  /   ,,   \  
+ /   |  |   \ 
+/_-''    ''-_\</span>
+</pre>
+</div>
+
+## ⚡ 技术栈
+
+### 💻 编程语言
+<div style="display: flex; gap: 10px;">
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+    </a>
+    <a href="https://nodejs.org/">
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+    </a>
+</div>
+
+### 🛠️ 开发工具
+<div style="display: flex; gap: 10px;">
+    <a href="https://www.jetbrains.com/webstorm/">
+        <img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/">
+        <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </a>
+</div>
+
+### 🌐 前端技术
+<div style="display: flex; gap: 10px;">
+    <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </a>
+    <a href="https://webpack.js.org/">
+        <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
+    </a>
+</div>
+
+### 📱 其他技能
+<div style="display: flex; gap: 10px;">
+    <a href="https://www.docker.com/">
+        <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </a>
+    <a href="https://www.npmjs.com/">
+        <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+    </a>
+    <a href="https://eslint.org/">
+        <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
+    </a>
+</div>
+
+## 📊 编程时间统计
+<div style="max-width: 600px; margin: 0 auto;">
+    <a href="https://wakatime.com">
+        <img src="https://wakatime.com/share/@a8344004-6b9a-4a56-8b71-e626b395781c/515c7e41-d28d-40cb-844c-fcbbc5fa7b5e.png" style="width: 100%; height: auto;" />
+    </a>
+</div>
+
+## 🤝 联系我
+<div style="display: flex; gap: 10px;">
+    <a href="https://github.com/pysio2007">
+        <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="mailto:qq593277393@outlook.com">
+        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+    </a>
+</div>
+
+## 📈 GitHub 统计
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pysio2007&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 400px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pysio2007&layout=compact&theme=radical" alt="Top Languages" style="max-width: 300px;" />
+</div>
+
+---
+<div align="center">
+    <img src="https://count.getloli.com/get/@pysio2007?theme=rule34" alt="访问次数"/>
+</div>
+
+⭐️ From [pysio2007](https://github.com/pysio2007)
