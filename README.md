@@ -150,7 +150,7 @@ Network Information:
         <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="mailto:qq593277393@outlook.com">
-        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Outlook"/>
     </a>
     <a href="https://t.me/Pysio07">
         <img src="https://img.shields.io/badge/Telegram-@Pysio07-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
