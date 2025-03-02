@@ -137,6 +137,43 @@ Network Information:
     </a>
 </div>
 
+### 🚀 Platforms & CI/CD
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <a href="https://pages.github.com/">
+        <img src="https://img.shields.io/badge/GitHub%20Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
+    </a>
+    <a href="https://github.com/features/actions">
+        <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+    </a>
+    <a href="https://gitlab.com/">
+        <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+    </a>
+    <a href="https://www.cloudflare.com/">
+        <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+    </a>
+    <a href="https://pages.cloudflare.com/">
+        <img src="https://img.shields.io/badge/Cloudflare%20Pages-%23F38020.svg?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages"/>
+    </a>
+    <a href="https://workers.cloudflare.com/">
+        <img src="https://img.shields.io/badge/Cloudflare%20Workers-%23F38020.svg?style=for-the-badge&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers"/>
+    </a>
+    <a href="https://www.jetbrains.com/teamcity/">
+        <img src="https://img.shields.io/badge/TeamCity-%23000000.svg?style=for-the-badge&logo=teamcity&logoColor=white" alt="TeamCity"/>
+    </a>
+    <a href="https://bitwarden.com/">
+        <img src="https://img.shields.io/badge/Bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden"/>
+    </a>
+    <a href="https://1.1.1.1/">
+        <img src="https://img.shields.io/badge/1.1.1.1-%23F38020.svg?style=for-the-badge&logo=1dot1dot1dot1&logoColor=white" alt="1.1.1.1"/>
+    </a>
+    <a href="https://aws.amazon.com/s3/">
+        <img src="https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    </a>
+</div>
+
 ## 📊 Coding Time Stats
 <div style="max-width: 600px; margin: 0 auto;">
     <a href="https://wakatime.com">
