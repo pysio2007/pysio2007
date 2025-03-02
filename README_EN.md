@@ -101,7 +101,7 @@ Network Information:
         <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
     </a>
     <a href="https://code.visualstudio.com/">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=coder&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=codeium&logoColor=white" alt="VS Code"/>
     </a>
     <a href="https://git-scm.com/">
         <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
