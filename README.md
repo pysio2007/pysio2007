@@ -4,6 +4,9 @@
 - 📫 邮箱: qq593277393@outlook.com
 - 🌱 我正在学习和成长中...
 - 💻 热爱编程，专注前端开发
+- 🌐 BGP Player | AS213605 运营者
+- 🔗 运营个人网络 | IPv6 Only + Anycast
+- 🏠 个人主页：[Pysio's Home](https://www.pysio.online)
 
 ## 🟢 在线状态
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -32,6 +35,41 @@ Memory: 512GB DDR4 ECC
 Storage: 
   └─ /: 1TB NVMe SSD
   └─ /data: 16TB RAID 5 Array
+```
+
+## 🌐 网络信息
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://bgp.tools/as/213605">
+        <img src="https://img.shields.io/badge/AS213605-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS213605"/>
+    </a>
+    <a href="https://bgp.tools/as/213605">
+        <img src="https://img.shields.io/badge/IPv6_Only-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
+    </a>
+    <a href="https://bgp.tools/as/213605">
+        <img src="https://img.shields.io/badge/Anycast-Enabled-purple?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Anycast"/>
+    </a>
+    <a href="https://anycast.ink/lg">
+        <img src="https://img.shields.io/badge/Looking_Glass-Status-orange?style=for-the-badge&logo=search&logoColor=white" alt="Looking Glass"/>
+    </a>
+</div>
+
+```bash
+Network Information:
+  └─ ASN: AS213605 (PYSIO-NETWORK)
+  └─ Status: Active, Allocated under RIPE
+  └─ Registration: 2025-01-10 
+  └─ Type: Personal Network
+  └─ Prefixes: 4 IPv6 Only
+  └─ Location: China 
+  └─ Upstreams:
+      └─ AS20473 - The Constant Company, LLC
+      └─ AS53667 - FranTech Solutions
+      └─ AS3204 - xTom OU
+      └─ AS7720 - Skywolf Technology LLC
+  └─ Features:
+      └─ Personal ASN
+      └─ Anycast Enabled
+      └─ IPv6 Only Network
 ```
 
 ## ⚡ 技术栈
