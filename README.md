@@ -51,7 +51,7 @@ Storage:
         <img src="https://img.shields.io/badge/Anycast-Enabled-purple?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Anycast"/>
     </a>
     <a href="https://anycast.ink/lg">
-        <img src="https://img.shields.io/badge/Looking_Glass-Status-orange?style=for-the-badge&logo=search&logoColor=white" alt="Looking Glass"/>
+        <img src="https://img.shields.io/badge/Looking_Glass-Status-orange?style=for-the-badge&logo=searxng&logoColor=white" alt="Looking Glass"/>
     </a>
 </div>
 
