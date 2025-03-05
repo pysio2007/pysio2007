@@ -58,24 +58,24 @@ Storage:
 ```bash
 Network Information:
   └─ ASN: AS213605 (PYSIO-NETWORK)
-  └─ Status: Active, Allocated under RIPE
-  └─ Registration: 2025-01-10 
-  └─ Type: Personal Network
-  └─ Prefixes: 4 IPv6 Only
-  └─ Location: China 
-  └─ Upstreams:
+  └─ 状态: 活跃, RIPE 注册
+  └─ 注册时间: 2025-01-10 
+  └─ 类型: 个人网络
+  └─ 前缀数量: 4 个 IPv6
+  └─ 位置: 中国 
+  └─ 上游供应商:
       └─ AS20473 - The Constant Company, LLC
       └─ AS53667 - FranTech Solutions
       └─ AS3204 - xTom OU
       └─ AS7720 - Skywolf Technology LLC
-  └─ Features:
-      └─ Personal ASN
-      └─ Anycast Enabled
-      └─ IPv6 Only Network
-  └─ FogIXP Peering LAN:
-      └─ IPv6 Address: 2001:7f8:ca:1::21:3605:1/64
-      └─ Peering Email: qq593277393@outlook.com
-      └─ NOC Contact: qq593277393@outlook.com (24x7)
+  └─ 特性:
+      └─ 个人自治系统
+      └─ 任播已启用
+      └─ 仅 IPv6 网络
+  └─ FogIXP 对等互联:
+      └─ IPv6 地址: 2001:7f8:ca:1::21:3605:1/64
+      └─ 对等互联邮箱: qq593277393@outlook.com
+      └─ 网络运维联系: qq593277393@outlook.com (24x7)
 ```
 
 ## 🔒 我们热爱隐私
@@ -91,63 +91,63 @@ Network Information:
 ```bash
 Tor 中继信息:
   └─ 指纹: 2F59BA21B8D07BE11FCD50C731CA5CAB638F624B
-  └─ 平台: Tor 0.4.8.13 on Linux
+  └─ 运行环境: Tor 0.4.8.13 on Linux
   └─ 地址:
       └─ IPv4: 104.244.74.229:9001
       └─ IPv6: [2605:6400:30:f91b:8124:6a51:9ea2:5d13]:9001
   └─ 出口地址:
       └─ IPv4: 104.244.74.229
   └─ 状态:
-      └─ 标志: Exit, Fast, Running, V2Dir, Valid
-      └─ 附加: ReachableIPv6, IPv6 Exit
+      └─ 标志: 出口节点, 高速, 运行中, V2目录, 有效
+      └─ 附加: IPv6可达, IPv6出口
   └─ 位置: 卢森堡
-  └─ AS: AS53667 (FranTech Solutions)
+  └─ 自治系统: AS53667 (FranTech Solutions)
   └─ 首次发现: 2025-02-20
   └─ 出口策略:
       └─ IPv4/IPv6 拒绝:
           └─ 端口: 25, 119, 135-139, 445, 563
           └─ 端口: 1214, 4661-4666, 6346-6429
           └─ 端口: 6699, 6881-6999
-      └─ 网络:
+      └─ 保留网段:
           └─ 0.0.0.0/8, 169.254.0.0/16
           └─ 127.0.0.0/8, 192.168.0.0/16
           └─ 10.0.0.0/8, 172.16.0.0/12
-      └─ 默认: 接受 *:*
+      └─ 默认策略: 接受所有
 ```
 
 ## 🌐 DN42 网络
 ```bash
-DN42 Information:
-  └─ ASN: AS213605 (PYSIO-NETWORK)
-  └─ Status: Active
-  └─ Type: Personal Network
-  └─ Network Policy: 本网络节点（中国大陆节点除外）不与中国大陆的服务器 Peer
-  └─ Features:
-      └─ IPv4 Only
-      └─ WireGuard Only
-      └─ Looking Glass: https://anycast.ink/lg
-  └─ Prefix:
+DN42 网络信息:
+  └─ 自治系统号: AS213605 (PYSIO-NETWORK)
+  └─ 状态: 活跃
+  └─ 类型: 个人网络
+  └─ 网络策略: 本网络节点（中国大陆节点除外）不与中国大陆的服务器对等互联
+  └─ 特性:
+      └─ 仅 IPv4
+      └─ 仅 WireGuard
+      └─ 网络探测: https://anycast.ink/lg
+  └─ 地址段:
       └─ DN42 IPv4: 172.20.183.0/27
-  └─ Peering:
-      └─ Status: Open
-      └─ Contact: team@pysio.online
-      └─ Required Info:
-          └─ ASN: 424242xxxx
-          └─ Public IP: x.x.x.x (使用 IPV4)
-          └─ DN42 IPv4:
-          └─ Server: 你的服务器名称
-          └─ WireGuard Public Key:
-          └─ WireGuard Listen Port: 13605
-  └─ Nodes:
+  └─ 对等互联:
+      └─ 状态: 开放
+      └─ 联系方式: team@pysio.online
+      └─ 所需信息:
+          └─ 自治系统号: 424242xxxx
+          └─ 公网 IP: x.x.x.x (使用 IPv4)
+          └─ DN42 IPv4 地址:
+          └─ 服务器名称: 你的服务器名称
+          └─ WireGuard 公钥:
+          └─ WireGuard 监听端口: 13605
+  └─ 节点列表:
       └─ 新加坡:
           └─ WireGuard 公钥: hIvaNhslwKskpJRYogahHaZJuCh5VMPm1wLwpvpYFkg=
-          └─ 端点: dn42.pysio.online:<您 ASN 的最后五位数字>
-          └─ 公共 IP: dn42.pysio.online / 43.159.51.252
+          └─ 连接端点: dn42.pysio.online:<您 ASN 的最后五位数字>
+          └─ 公网 IP: dn42.pysio.online / 43.159.51.252
           └─ DN42 IPv4: 172.20.183.1
       └─ 中国成都电信:
           └─ WireGuard 公钥: ViTlLbeCvEwYehAF6WbI7eekghVrkLoTbuhwzk0g0C8=
-          └─ 端点: home.pysio.online:<您 ASN 的最后五位数字>
-          └─ 公共 IP: home.pysio.online (DDNS)
+          └─ 连接端点: home.pysio.online:<您 ASN 的最后五位数字>
+          └─ 公网 IP: home.pysio.online (DDNS)
           └─ DN42 IPv4: 172.20.183.2
 ```
 
