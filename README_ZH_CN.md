@@ -9,8 +9,8 @@
 - 🌐 BGP Player | AS213605 运营者
 - 🔗 运营个人网络 | IPv6 Only + Anycast
 - 🏠 个人主页：[Pysio's Home](https://www.pysio.online)
-- 🇨🇳 🇯🇵 中国人，现居日本东京，喜欢动漫和游戏！
-- 语言：🇨🇳 中文（母语）、🇺🇸 英语（流利）、🇯🇵 日语（学习中）
+- <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> 中国公民，现居日本东京，喜欢动漫和游戏！
+- 语言：<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> 中文（母语）、<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg" width="16" height="12" alt="US" style="vertical-align: middle;"> 英语（流利）、<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> 日语（学习中）
 
 ## 🟢 在线状态
 <div style="display: flex; align-items: center; gap: 10px;">

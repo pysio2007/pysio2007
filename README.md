@@ -9,8 +9,8 @@
 - 🌐 BGP Player | AS213605 Operator
 - 🔗 Operating Personal Network | IPv6 Only + Anycast
 - 🏠 Homepage: [Pysio's Home](https://www.pysio.online)
-- 🇨🇳 🇯🇵 Chinese citizen, currently living in Tokyo, Japan. Love anime and games!
-- Languages: 🇨🇳 Chinese (native), 🇺🇸 English (fluent), 🇯🇵 Japanese (learning)
+- <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> Chinese citizen, currently living in Tokyo, Japan. Love anime and games!
+- Languages: <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> Chinese (native), <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg" width="16" height="12" alt="US" style="vertical-align: middle;"> English (fluent), <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> Japanese (learning)
 
 ## 🟢 Online Status
 <div style="display: flex; align-items: center; gap: 10px;">
