@@ -1,4 +1,4 @@
-简体中文 | [English](READM.md)
+简体中文 | [日本語](README_JA_JP.md) | [English](README.md)
 
 # 👋 Hi there, I'm pysio2007
 

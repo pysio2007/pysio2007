@@ -1,23 +1,23 @@
-[简体中文](README_ZH_CN.md) | [日本語](README_JA_JP.md) | English
+日本語 | [简体中文](README_ZH_CN.md) | [English](README.md)
 
-# 👋 Hi there, I'm pysio2007
+# 👋 こんにちは、pysio2007です
 
-## 🌟 About Me
-- 📫 Email: qq593277393@outlook.com
-- 🌱 Always learning and growing...
-- 💻 Passionate about programming, focused on frontend development
-- 🌐 BGP Player | AS213605 Operator
-- 🔗 Operating Personal Network | IPv6 Only + Anycast
-- 🏠 Homepage: [Pysio's Home](https://www.pysio.online)
-- <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> Chinese citizen, currently living in Tokyo, Japan. Love anime and games!
-- Languages: <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> Chinese (native), <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg" width="16" height="12" alt="US" style="vertical-align: middle;"> English (fluent), <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> Japanese (learning)
+## 🌟 自己紹介
+- 📫 メール: qq593277393@outlook.com
+- 🌱 常に学習し、成長しています...
+- 💻 プログラミングに情熱を持ち、フロントエンド開発に集中しています
+- 🌐 BGP Player | AS213605 オペレーター
+- 🔗 個人ネットワーク運営 | IPv6 Only + Anycast
+- 🏠 ホームページ: [Pysio's Home](https://www.pysio.online)
+- <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> 中国人、現在東京在住。アニメとゲームが大好き！
+- 言語：<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> 中国語（母国語）、<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg" width="16" height="12" alt="US" style="vertical-align: middle;"> 英語（流暢）、<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> 日本語（勉強中）
 
-## 🟢 Online Status
+## 🟢 オンラインステータス
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://blogapi.pysio.online/check/svg" alt="Online Status"/>
+    <img src="https://blogapi.pysio.online/check/svg" alt="オンラインステータス"/>
 </div>
 
-## 🐧 System Information
+## 🐧 システム情報
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://archlinux.org/">
         <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
@@ -41,7 +41,7 @@ Storage:
   └─ /data: 16TB RAID 5 Array
 ```
 
-## 🌐 Network Information
+## 🌐 ネットワーク情報
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://bgp.tools/as/213605">
         <img src="https://img.shields.io/badge/AS213605-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS213605"/>
@@ -58,104 +58,104 @@ Storage:
 </div>
 
 ```bash
-Network Information:
+ネットワーク情報:
   └─ ASN: AS213605 (PYSIO-NETWORK)
-  └─ Status: Active, Allocated under RIPE
-  └─ Registration: 2025-01-10 
-  └─ Type: Personal Network
-  └─ Prefixes: 4 IPv6 Only
-  └─ Location: China 
-  └─ Upstreams:
+  └─ ステータス: アクティブ、RIPE登録
+  └─ 登録日: 2025-01-10 
+  └─ タイプ: 個人ネットワーク
+  └─ プレフィックス: IPv6のみ4つ
+  └─ 場所: 中国 
+  └─ アップストリーム:
       └─ AS20473 - The Constant Company, LLC
       └─ AS53667 - FranTech Solutions
       └─ AS3204 - xTom OU
       └─ AS7720 - Skywolf Technology LLC
-  └─ Features:
-      └─ Personal ASN
-      └─ Anycast Enabled
-      └─ IPv6 Only Network
-  └─ FogIXP Peering LAN:
-      └─ IPv6 Address: 2001:7f8:ca:1::21:3605:1/64
-      └─ Peering Email: qq593277393@outlook.com
-      └─ NOC Contact: qq593277393@outlook.com (24x7)
+  └─ 特徴:
+      └─ 個人AS
+      └─ Anycast有効
+      └─ IPv6のみのネットワーク
+  └─ FogIXPピアリングLAN:
+      └─ IPv6アドレス: 2001:7f8:ca:1::21:3605:1/64
+      └─ ピアリングメール: qq593277393@outlook.com
+      └─ NOC連絡先: qq593277393@outlook.com (24x7)
 ```
 
-## 🔒 We Love Privacy
+## 🔒 プライバシーを大切に
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://metrics.torproject.org/rs.html#details/2F59BA21B8D07BE11FCD50C731CA5CAB638F624B">
-        <img src="https://img.shields.io/badge/Tor_Relay-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor Relay"/>
+        <img src="https://img.shields.io/badge/Tor_リレー-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor リレー"/>
     </a>
     <a href="https://metrics.torproject.org/rs.html#search/family:2F59BA21B8D07BE11FCD50C731CA5CAB638F624B">
-        <img src="https://img.shields.io/badge/Exit_Node-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Exit Node"/>
+        <img src="https://img.shields.io/badge/出口ノード-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="出口ノード"/>
     </a>
 </div>
 
 ```bash
-Tor Relay Information:
-  └─ Fingerprint: 2F59BA21B8D07BE11FCD50C731CA5CAB638F624B
-  └─ Platform: Tor 0.4.8.13 on Linux
-  └─ Addresses:
+Torリレー情報:
+  └─ フィンガープリント: 2F59BA21B8D07BE11FCD50C731CA5CAB638F624B
+  └─ プラットフォーム: Tor 0.4.8.13 on Linux
+  └─ アドレス:
       └─ IPv4: 104.244.74.229:9001
       └─ IPv6: [2605:6400:30:f91b:8124:6a51:9ea2:5d13]:9001
-  └─ Exit Addresses:
+  └─ 出口アドレス:
       └─ IPv4: 104.244.74.229
-  └─ Status:
-      └─ Flags: Exit, Fast, Running, V2Dir, Valid
-      └─ Additional: ReachableIPv6, IPv6 Exit
-  └─ Location: Luxembourg
+  └─ ステータス:
+      └─ フラグ: Exit, Fast, Running, V2Dir, Valid
+      └─ 追加: ReachableIPv6, IPv6 Exit
+  └─ 場所: ルクセンブルク
   └─ AS: AS53667 (FranTech Solutions)
-  └─ First Seen: 2025-02-20
-  └─ Exit Policy:
-      └─ IPv4/IPv6 Reject:
-          └─ Ports: 25, 119, 135-139, 445, 563
-          └─ Ports: 1214, 4661-4666, 6346-6429
-          └─ Ports: 6699, 6881-6999
-      └─ Networks:
+  └─ 初回確認: 2025-02-20
+  └─ 出口ポリシー:
+      └─ IPv4/IPv6 拒否:
+          └─ ポート: 25, 119, 135-139, 445, 563
+          └─ ポート: 1214, 4661-4666, 6346-6429
+          └─ ポート: 6699, 6881-6999
+      └─ ネットワーク:
           └─ 0.0.0.0/8, 169.254.0.0/16
           └─ 127.0.0.0/8, 192.168.0.0/16
           └─ 10.0.0.0/8, 172.16.0.0/12
-      └─ Default: accept *:*
+      └─ デフォルト: accept *:*
 ```
 
-## 🌐 DN42 Network
+## 🌐 DN42 ネットワーク
 ```bash
-DN42 Information:
+DN42情報:
   └─ ASN: AS213605 (PYSIO-NETWORK)
-  └─ Status: Active
-  └─ Type: Personal Network
-  └─ Network Policy: Network nodes (except those in mainland China) do not peer with servers in mainland China
-  └─ Features:
-      └─ IPv4 Only
-      └─ WireGuard Only
+  └─ ステータス: アクティブ
+  └─ タイプ: 個人ネットワーク
+  └─ ネットワークポリシー: ネットワークノード（中国本土のものを除く）は中国本土のサーバーとピアリングしません
+  └─ 特徴:
+      └─ IPv4のみ
+      └─ WireGuardのみ
       └─ Looking Glass: https://anycast.ink/lg
-  └─ Prefix:
+  └─ プレフィックス:
       └─ DN42 IPv4: 172.20.183.0/27
-  └─ Peering:
-      └─ Status: Open
-      └─ Contact: team@pysio.online
-      └─ Required Info:
+  └─ ピアリング:
+      └─ ステータス: オープン
+      └─ 連絡先: team@pysio.online
+      └─ 必要情報:
           └─ ASN: 424242xxxx
-          └─ Public IP: x.x.x.x (IPv4)
+          └─ パブリックIP: x.x.x.x (IPv4)
           └─ DN42 IPv4:
-          └─ Server: Your server name
-          └─ WireGuard Public Key:
-          └─ WireGuard Listen Port: 13605
-  └─ Nodes:
-      └─ Singapore:
-          └─ WireGuard Public Key: hIvaNhslwKskpJRYogahHaZJuCh5VMPm1wLwpvpYFkg=
-          └─ Endpoint: dn42.pysio.online:<Last 5 digits of your ASN>
-          └─ Public IP: dn42.pysio.online / 43.159.51.252
+          └─ サーバー: あなたのサーバー名
+          └─ WireGuard公開鍵:
+          └─ WireGuardリスニングポート: 13605
+  └─ ノード:
+      └─ シンガポール:
+          └─ WireGuard公開鍵: hIvaNhslwKskpJRYogahHaZJuCh5VMPm1wLwpvpYFkg=
+          └─ エンドポイント: dn42.pysio.online:<あなたのASNの最後の5桁>
+          └─ パブリックIP: dn42.pysio.online / 43.159.51.252
           └─ DN42 IPv4: 172.20.183.1
-      └─ Chengdu, China (China Telecom):
-          └─ WireGuard Public Key: ViTlLbeCvEwYehAF6WbI7eekghVrkLoTbuhwzk0g0C8=
-          └─ Endpoint: home.pysio.online:<Last 5 digits of your ASN>
-          └─ Public IP: home.pysio.online (DDNS)
+      └─ 中国成都 (China Telecom):
+          └─ WireGuard公開鍵: ViTlLbeCvEwYehAF6WbI7eekghVrkLoTbuhwzk0g0C8=
+          └─ エンドポイント: home.pysio.online:<あなたのASNの最後の5桁>
+          └─ パブリックIP: home.pysio.online (DDNS)
           └─ DN42 IPv4: 172.20.183.2
 ```
 
-## ⚡ Tech Stack
+## ⚡ 技術スタック
 
-### 💻 Programming Languages
+### 💻 プログラミング言語
 <div style="display: flex; gap: 10px;">
     <a href="https://www.typescriptlang.org/">
         <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -171,7 +171,7 @@ DN42 Information:
     </a>
 </div>
 
-### 🛠️ Development Tools
+### 🛠️ 開発ツール
 <div style="display: flex; gap: 10px;">
     <a href="https://www.jetbrains.com/webstorm/">
         <img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
@@ -187,7 +187,7 @@ DN42 Information:
     </a>
 </div>
 
-### 🌐 Frontend Technologies
+### 🌐 フロントエンド技術
 <div style="display: flex; gap: 10px;">
     <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -203,7 +203,7 @@ DN42 Information:
     </a>
 </div>
 
-### 📱 Other Skills
+### 📱 その他のスキル
 <div style="display: flex; gap: 10px;">
     <a href="https://www.docker.com/">
         <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -216,7 +216,7 @@ DN42 Information:
     </a>
 </div>
 
-### 🚀 Platforms & CI/CD
+### 🚀 プラットフォーム & CI/CD
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <a href="https://pages.github.com/">
         <img src="https://img.shields.io/badge/GitHub%20Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
@@ -256,14 +256,14 @@ DN42 Information:
     </a>
 </div>
 
-## 📊 Coding Time Stats
+## 📊 コーディング時間統計
 <div style="max-width: 600px; margin: 0 auto;">
     <a href="https://wakatime.com">
         <img src="https://wakatime.com/share/@a8344004-6b9a-4a56-8b71-e626b395781c/515c7e41-d28d-40cb-844c-fcbbc5fa7b5e.png" style="width: 100%; height: auto;" />
     </a>
 </div>
 
-## 🤝 Contact Me
+## 🤝 お問い合わせ
 <div style="display: flex; gap: 10px;">
     <a href="https://github.com/pysio2007">
         <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -279,7 +279,7 @@ DN42 Information:
     </a>
 </div>
 
-## 📈 GitHub Stats
+## 📈 GitHub 統計
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=pysio2007&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 400px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pysio2007&layout=compact&theme=radical" alt="Top Languages" style="max-width: 300px;" />
@@ -287,7 +287,7 @@ DN42 Information:
 
 ---
 <div align="center">
-    <img src="https://count.getloli.com/get/@pysio2007?theme=rule34" alt="Visitor Count"/>
+    <img src="https://count.getloli.com/get/@pysio2007?theme=rule34" alt="訪問者数"/>
 </div>
 
 ⭐️ From [pysio2007](https://github.com/pysio2007) 
