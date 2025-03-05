@@ -78,6 +78,43 @@ Network Information:
       └─ NOC Contact: qq593277393@outlook.com (24x7)
 ```
 
+## 🔒 我们热爱隐私
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://metrics.torproject.org/rs.html#details/2F59BA21B8D07BE11FCD50C731CA5CAB638F624B">
+        <img src="https://img.shields.io/badge/Tor_中继-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor 中继"/>
+    </a>
+    <a href="https://metrics.torproject.org/rs.html#search/family:2F59BA21B8D07BE11FCD50C731CA5CAB638F624B">
+        <img src="https://img.shields.io/badge/出口节点-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="出口节点"/>
+    </a>
+</div>
+
+```bash
+Tor 中继信息:
+  └─ 指纹: 2F59BA21B8D07BE11FCD50C731CA5CAB638F624B
+  └─ 平台: Tor 0.4.8.13 on Linux
+  └─ 地址:
+      └─ IPv4: 104.244.74.229:9001
+      └─ IPv6: [2605:6400:30:f91b:8124:6a51:9ea2:5d13]:9001
+  └─ 出口地址:
+      └─ IPv4: 104.244.74.229
+  └─ 状态:
+      └─ 标志: Exit, Fast, Running, V2Dir, Valid
+      └─ 附加: ReachableIPv6, IPv6 Exit
+  └─ 位置: 卢森堡
+  └─ AS: AS53667 (FranTech Solutions)
+  └─ 首次发现: 2025-02-20
+  └─ 出口策略:
+      └─ IPv4/IPv6 拒绝:
+          └─ 端口: 25, 119, 135-139, 445, 563
+          └─ 端口: 1214, 4661-4666, 6346-6429
+          └─ 端口: 6699, 6881-6999
+      └─ 网络:
+          └─ 0.0.0.0/8, 169.254.0.0/16
+          └─ 127.0.0.0/8, 192.168.0.0/16
+          └─ 10.0.0.0/8, 172.16.0.0/12
+      └─ 默认: 接受 *:*
+```
+
 ## 🌐 DN42 网络
 ```bash
 DN42 Information:

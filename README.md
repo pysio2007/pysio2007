@@ -78,6 +78,43 @@ Network Information:
       └─ NOC Contact: qq593277393@outlook.com (24x7)
 ```
 
+## 🔒 We Love Privacy
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://metrics.torproject.org/rs.html#details/2F59BA21B8D07BE11FCD50C731CA5CAB638F624B">
+        <img src="https://img.shields.io/badge/Tor_Relay-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor Relay"/>
+    </a>
+    <a href="https://metrics.torproject.org/rs.html#search/family:2F59BA21B8D07BE11FCD50C731CA5CAB638F624B">
+        <img src="https://img.shields.io/badge/Exit_Node-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Exit Node"/>
+    </a>
+</div>
+
+```bash
+Tor Relay Information:
+  └─ Fingerprint: 2F59BA21B8D07BE11FCD50C731CA5CAB638F624B
+  └─ Platform: Tor 0.4.8.13 on Linux
+  └─ Addresses:
+      └─ IPv4: 104.244.74.229:9001
+      └─ IPv6: [2605:6400:30:f91b:8124:6a51:9ea2:5d13]:9001
+  └─ Exit Addresses:
+      └─ IPv4: 104.244.74.229
+  └─ Status:
+      └─ Flags: Exit, Fast, Running, V2Dir, Valid
+      └─ Additional: ReachableIPv6, IPv6 Exit
+  └─ Location: Luxembourg
+  └─ AS: AS53667 (FranTech Solutions)
+  └─ First Seen: 2025-02-20
+  └─ Exit Policy:
+      └─ IPv4/IPv6 Reject:
+          └─ Ports: 25, 119, 135-139, 445, 563
+          └─ Ports: 1214, 4661-4666, 6346-6429
+          └─ Ports: 6699, 6881-6999
+      └─ Networks:
+          └─ 0.0.0.0/8, 169.254.0.0/16
+          └─ 127.0.0.0/8, 192.168.0.0/16
+          └─ 10.0.0.0/8, 172.16.0.0/12
+      └─ Default: accept *:*
+```
+
 ## 🌐 DN42 Network
 ```bash
 DN42 Information:
