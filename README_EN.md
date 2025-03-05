@@ -78,6 +78,42 @@ Network Information:
       └─ NOC Contact: qq593277393@outlook.com (24x7)
 ```
 
+## 🌐 DN42 Network
+```bash
+DN42 Information:
+  └─ ASN: AS213605 (PYSIO-NETWORK)
+  └─ Status: Active
+  └─ Type: Personal Network
+  └─ Network Policy: Network nodes (except those in mainland China) do not peer with servers in mainland China
+  └─ Features:
+      └─ IPv4 Only
+      └─ WireGuard Only
+      └─ Looking Glass: https://anycast.ink/lg
+  └─ Prefix:
+      └─ DN42 IPv4: 172.20.183.0/27
+  └─ Peering:
+      └─ Status: Open
+      └─ Contact: team@pysio.online
+      └─ Required Info:
+          └─ ASN: 424242xxxx
+          └─ Public IP: x.x.x.x (IPv4)
+          └─ DN42 IPv4:
+          └─ Server: Your server name
+          └─ WireGuard Public Key:
+          └─ WireGuard Listen Port: 13605
+  └─ Nodes:
+      └─ Singapore:
+          └─ WireGuard Public Key: hIvaNhslwKskpJRYogahHaZJuCh5VMPm1wLwpvpYFkg=
+          └─ Endpoint: dn42.pysio.online:<Last 5 digits of your ASN>
+          └─ Public IP: dn42.pysio.online / 43.159.51.252
+          └─ DN42 IPv4: 172.20.183.1
+      └─ Chengdu, China (China Telecom):
+          └─ WireGuard Public Key: ViTlLbeCvEwYehAF6WbI7eekghVrkLoTbuhwzk0g0C8=
+          └─ Endpoint: home.pysio.online:<Last 5 digits of your ASN>
+          └─ Public IP: home.pysio.online (DDNS)
+          └─ DN42 IPv4: 172.20.183.2
+```
+
 ## ⚡ Tech Stack
 
 ### 💻 Programming Languages

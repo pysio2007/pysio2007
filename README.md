@@ -78,6 +78,42 @@ Network Information:
       └─ NOC Contact: qq593277393@outlook.com (24x7)
 ```
 
+## 🌐 DN42 网络
+```bash
+DN42 Information:
+  └─ ASN: AS213605 (PYSIO-NETWORK)
+  └─ Status: Active
+  └─ Type: Personal Network
+  └─ Network Policy: 本网络节点（中国大陆节点除外）不与中国大陆的服务器 Peer
+  └─ Features:
+      └─ IPv4 Only
+      └─ WireGuard Only
+      └─ Looking Glass: https://anycast.ink/lg
+  └─ Prefix:
+      └─ DN42 IPv4: 172.20.183.0/27
+  └─ Peering:
+      └─ Status: Open
+      └─ Contact: team@pysio.online
+      └─ Required Info:
+          └─ ASN: 424242xxxx
+          └─ Public IP: x.x.x.x (使用 IPV4)
+          └─ DN42 IPv4:
+          └─ Server: 你的服务器名称
+          └─ WireGuard Public Key:
+          └─ WireGuard Listen Port: 13605
+  └─ Nodes:
+      └─ 新加坡:
+          └─ WireGuard 公钥: hIvaNhslwKskpJRYogahHaZJuCh5VMPm1wLwpvpYFkg=
+          └─ 端点: dn42.pysio.online:<您 ASN 的最后五位数字>
+          └─ 公共 IP: dn42.pysio.online / 43.159.51.252
+          └─ DN42 IPv4: 172.20.183.1
+      └─ 中国成都电信:
+          └─ WireGuard 公钥: ViTlLbeCvEwYehAF6WbI7eekghVrkLoTbuhwzk0g0C8=
+          └─ 端点: home.pysio.online:<您 ASN 的最后五位数字>
+          └─ 公共 IP: home.pysio.online (DDNS)
+          └─ DN42 IPv4: 172.20.183.2
+```
+
 ## ⚡ 技术栈
 
 ### 💻 编程语言
