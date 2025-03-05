@@ -72,6 +72,10 @@ Network Information:
       └─ Personal ASN
       └─ Anycast Enabled
       └─ IPv6 Only Network
+  └─ FogIXP Peering LAN:
+      └─ IPv6 Address: 2001:7f8:ca:1::21:3605:1/64
+      └─ Peering Email: qq593277393@outlook.com
+      └─ NOC Contact: qq593277393@outlook.com (24x7)
 ```
 
 ## ⚡ 技术栈
