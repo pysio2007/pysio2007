@@ -9,6 +9,8 @@
 - 🌐 BGP Player | AS213605 运营者
 - 🔗 运营个人网络 | IPv6 Only + Anycast
 - 🏠 个人主页：[Pysio's Home](https://www.pysio.online)
+- 🇨🇳 🇯🇵 中国人，现居日本东京，喜欢动漫和游戏！
+- 语言：🇨🇳 中文（母语）、🇺🇸 英语（流利）、🇯🇵 日语（学习中）
 
 ## 🟢 在线状态
 <div style="display: flex; align-items: center; gap: 10px;">

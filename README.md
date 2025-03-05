@@ -9,6 +9,8 @@
 - 🌐 BGP Player | AS213605 Operator
 - 🔗 Operating Personal Network | IPv6 Only + Anycast
 - 🏠 Homepage: [Pysio's Home](https://www.pysio.online)
+- 🇨🇳 🇯🇵 Chinese citizen, currently living in Tokyo, Japan. Love anime and games!
+- Languages: 🇨🇳 Chinese (native), 🇺🇸 English (fluent), 🇯🇵 Japanese (learning)
 
 ## 🟢 Online Status
 <div style="display: flex; align-items: center; gap: 10px;">
