@@ -63,10 +63,13 @@ Storage:
         <img src="https://img.shields.io/badge/AS213605-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS213605"/>
     </a>
     <a href="https://bgp.tools/as/213605">
-        <img src="https://img.shields.io/badge/IPv6_Only-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
+        <img src="https://img.shields.io/badge/7_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
     </a>
     <a href="https://bgp.tools/as/213605">
         <img src="https://img.shields.io/badge/Anycast-Enabled-purple?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Anycast"/>
+    </a>
+    <a href="https://bgp.tools/as/213605">
+        <img src="https://img.shields.io/badge/%2327-CN_Peers-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="China Peers Ranking"/>
     </a>
     <a href="https://anycast.ink/lg">
         <img src="https://img.shields.io/badge/Looking_Glass-Status-orange?style=for-the-badge&logo=searxng&logoColor=white" alt="Looking Glass"/>
@@ -77,19 +80,22 @@ Storage:
 ネットワーク情報:
   └─ ASN: AS213605 (PYSIO-NETWORK)
   └─ ステータス: アクティブ、RIPE登録
-  └─ 登録日: 2025-01-10 
+  └─ 登録日: 2025-01-10 (2ヶ月前)
   └─ タイプ: 個人ネットワーク
-  └─ プレフィックス: IPv6のみ4つ
+  └─ プレフィックス: IPv4 0個、IPv6 7個
   └─ 場所: 中国 
   └─ アップストリーム:
       └─ AS20473 - The Constant Company, LLC
       └─ AS53667 - FranTech Solutions
+      └─ AS34927 - iFog GmbH
       └─ AS3204 - xTom OU
       └─ AS7720 - Skywolf Technology LLC
   └─ 特徴:
       └─ 個人AS
       └─ Anycast有効
       └─ IPv6のみのネットワーク
+  └─ ランキング:
+      └─ 中国の既知ピア数ランキング第27位
   └─ FogIXPピアリングLAN:
       └─ IPv6アドレス: 2001:7f8:ca:1::21:3605:1/64
       └─ ピアリングメール: pysio@2.0.a.1.c.7.6.4.1.a.2.ip6.arpa
