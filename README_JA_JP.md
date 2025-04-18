@@ -13,7 +13,7 @@
 - 🌱 常に学習し、成長しています...
 - 💻 プログラミングに情熱を持ち、フロントエンド開発に集中しています
 - 🌐 BGP Player | AS213605 オペレーター
-- 🔗 個人ネットワーク運営 | IPv6 Only + Anycast
+- 🔗 個人ネットワーク運営 | IPv6 Only + Anycast + AKAERE IXP
 - 🏠 ホームページ: [Pysio's Home](https://www.pysio.online)
 - <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> 中国人、現在東京在住。アニメとゲームが大好き！
 - 言語：<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> 中国語（母国語）、<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg" width="16" height="12" alt="US" style="vertical-align: middle;"> 英語（流暢）、<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> 日本語（勉強中）
