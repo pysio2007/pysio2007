@@ -58,6 +58,8 @@ Storage:
 ```
 
 ## 🌐 Network Information
+
+### Pysio NetWorks
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://bgp.tools/as/213605">
         <img src="https://img.shields.io/badge/AS213605-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS213605"/>
@@ -100,6 +102,82 @@ Network Information:
       └─ IPv6 Address: 2001:7f8:ca:1::21:3605:1/64
       └─ Peering Email: pysio@2.0.a.1.c.7.6.4.1.a.2.ip6.arpa
       └─ NOC Contact: pysio@2.0.a.1.c.7.6.4.1.a.2.ip6.arpa (24x7)
+```
+
+### 🌐 Network Information
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://bgp.tools/as/210440">
+        <img src="https://img.shields.io/badge/AS210440-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS210440"/>
+    </a>
+    <a href="https://bgp.tools/as/210440">
+        <img src="https://img.shields.io/badge/1_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
+    </a>
+    <a href="https://akae.re/">
+        <img src="https://img.shields.io/badge/AKAERE-Website-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyLjI1TDE5LjUgMy41TDMuNSAxOS41TDIuMjUgMTguMjVMMTguMjUgMi4yNU0xNS43NSA0LjVMMTYuNSAzLjc1TDE5LjUgNi43NUwyMC4yNSA2TDIxLjUgNy4yNUwxNy43NSAxMUwxNi41IDkuNzVMMTcuMjUgOUwxNC4yNSA2VjQuNUgxNS43NU02LjI1IDE1Ljc1TDQuNSAxNy41VjIwLjI1SDcuMjVMOSAxOC41TDYuMjUgMTUuNzVNOC4yNSAxN0wxMCA1LjI1TDExLjUgMy43NUwxMy41IDUuNzVMMTIgNy4yNUw4LjI1IDE3VjE3WiIvPjwvc3ZnPg==" alt="AKAERE Website"/>
+    </a>
+</div>
+
+```bash
+Network Information:
+  └─ ASN: AS210440 (AKAERE NETWORKS TECHNOLOGY LTD)
+  └─ Status: Active, Allocated under RIPE
+  └─ Registration: 2025-04-14 (0 months old)
+  └─ Type: Commercial Network
+  └─ Prefixes: 0 IPv4, 1 IPv6
+  └─ Location: United Kingdom
+  └─ Upstreams:
+      └─ AS20473 - The Constant Company, LLC
+  └─ Features:
+      └─ Commercial ASN
+      └─ IPv6 Only Network
+  └─ Website: https://akae.re/
+```
+
+### Akaere IXP
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://www.peeringdb.com/ix/4718">
+        <img src="https://img.shields.io/badge/AkaereIXP-Exchange-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMS45OSAxMkwyLjg1IDIySDYuNDNMMTQuODYgMTJMNi40MyAySDIuODVMMTEuOTkgMTJaIE0xNi4zOCAySDEyLjhMMjEuMjMgMTJMMTIuOCAyMkgxNi4zOEwyNS4xNSAxMkwxNi4zOCAyWiIvPjwvc3ZnPg==" alt="AkaereIXP"/>
+    </a>
+    <a href="https://ixpm.akae.re/">
+        <img src="https://img.shields.io/badge/IXP_Manager-Portal-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNi4zNiAySDQuMzZDMy4zOSAyIDIuNSAyLjg5IDIuNSAzLjg2VjE4LjE0QzIuNSAxOS4xMSAzLjM5IDIwIDQuMzYgMjBIMjAuMzZDMjEuMzMgMjAgMjIuMjIgMTkuMTEgMjIuMjIgMTguMTRWN0gxNy4zNkMxNi44NCA3IDE2LjM2IDYuNTIgMTYuMzYgNlYyTTExLjk3IDEzLjdINi4zOVYxNC43SDExLjk3VjEzLjdNMTEuOTcgMTVIOC4zOVYxNkg5VjE3LjdIOS42NlYxNkgxMVYxNy43SDExLjY2VjE2SDExLjk3VjE1TTEzLjk3IDEyLjdINi4zOVYxMy43SDEzLjk3VjEyLjdNMTMuOTcgMTAuN0g2LjM5VjExLjdIMTMuOTdWMTAuN00yMy4zNSA2SDE3LjM2VjBMMjMuMzUgNk0xNC4zNiAxNS43VjE2LjdIMTUuMzZWMTUuN0gxNC4zNk0xMi45NyAxMy43VjE3LjdIMTYuOTdWMTMuN0gxMi45N00xNi4zNiAxNi43SDE0LjM2VjE0LjdIMTYuMzZWMTYuN1oiLz48L3N2Zz4=" alt="IXP Manager Portal"/>
+    </a>
+    <a href="https://www.peeringdb.com/ix/4718">
+        <img src="https://img.shields.io/badge/PeeringDB-4718-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDFDMS44OSAxIDEgMS44OSAxIDNWMTRDMSAxNS4xMSAxLjg5IDE2IDMgMTZIMTRDMTUuMTEgMTYgMTYgMTUuMTEgMTYgMTRWMTFIMTRWMTRIM1YzSDE0VjVIMTZWM0MxNiAxLjg5IDE1LjExIDEgMTQgMUgzTTEzIDVWOEgxMFYxMEgxM1YxM0gxNVYxMEgxOFY4SDE1VjVIMTNNN1YxOEgxOFYyMEg3VjE4TTcgMjBWMjJIMTBWMjBIN00xOCAyMFYyMkgyMVYyMEgxOCIvPjwvc3ZnPg==" alt="PeeringDB Entry"/>
+    </a>
+</div>
+
+```bash
+Exchange Information:
+  └─ Name: AkaereIXP
+  └─ Organization: AKAERE NETWORKS TECHNOLOGY LTD
+  └─ Also Known As: AKIX
+  └─ City: Frankfurt
+  └─ Country: DE
+  └─ Continental Region: Europe
+  └─ Service Level: Normal Business Hours
+  └─ Terms: No Commercial Terms
+  └─ Last Updated: 2025-04-18T13:51:13Z
+  └─ Contact Information:
+      └─ Company Website: https://ixpm.akae.re/
+      └─ Technical Email: noc@akae.re
+      └─ Policy Email: noc@akae.re
+      └─ Sales Email: noc@akae.re
+      └─ Health Check: https://ixpm.akae.re/
+  └─ LAN MTU: 1500
+  └─ Prefixes:
+      └─ IPv6: 2a14:67c1:a080::/64
+  └─ Local Facilities:
+      └─ Digital Realty Frankfurt FRA1-16, Germany, Frankfurt
+  └─ Peers at this Exchange Point:
+      └─ Akaere-NetWork (AS210440)
+          └─ IPv6: 2a14:67c1:a080::1
+          └─ Speed: 1G
+      └─ Liu Zhen (AS213891)
+          └─ IPv6: 2a14:67c1:a080::101
+          └─ Speed: 1G
+      └─ Pysio-NetWork (AS213605)
+          └─ IPv6: 2a14:67c1:a080::100
+          └─ Speed: 1G
 ```
 
 ## 🔒 We Love Privacy
