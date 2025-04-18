@@ -104,7 +104,7 @@ Storage:
       └─ NOC連絡先: pysio@2.0.a.1.c.7.6.4.1.a.2.ip6.arpa (24x7)
 ```
 
-### 🌐 Network Information
+### AKAERE NETWORKS TECHNOLOGY LTD
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://bgp.tools/as/210440">
         <img src="https://img.shields.io/badge/AS210440-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS210440"/>
@@ -113,7 +113,7 @@ Storage:
         <img src="https://img.shields.io/badge/1_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
     </a>
     <a href="https://akae.re/">
-        <img src="https://img.shields.io/badge/AKAERE-ウェブサイト-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyLjI1TDE5LjUgMy41TDMuNSAxOS41TDIuMjUgMTguMjVMMTguMjUgMi4yNU0xNS43NSA0LjVMMTYuNSAzLjc1TDE5LjUgNi43NUwyMC4yNSA2TDIxLjUgNy4yNUwxNy43NSAxMUwxNi41IDkuNzVMMTcuMjUgOUwxNC4yNSA2VjQuNUgxNS43NU02LjI1IDE1Ljc1TDQuNSAxNy41VjIwLjI1SDcuMjVMOSAxOC41TDYuMjUgMTUuNzVNOC4yNSAxN0wxMCA1LjI1TDExLjUgMy43NUwxMy41IDUuNzVMMTIgNy4yNUw4LjI1IDE3VjE3WiIvPjwvc3ZnPg==" alt="AKAEREウェブサイト"/>
+        <img src="https://img.shields.io/badge/AKAERE-ウェブサイト-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyLjI1TDE5LjUgMy41TDMuNSAxOS41TDIuMjUgMTguMjVMMTguMjUgMi4yNU0xNS43NSA0LjVMMTYuNSAzLjc1TDE5LjUgNi43NUwyMC4yNSA2TDIxLjUgNy4yNUwxNy43NSAxMUwxNi41IDkuNzVMMTcuMjUgOUwxNC4yNSA2VjQuNUgxNS43NU02LjI1IDE1Ljc1TDQuNSAxNy41VjIwLjI1SDcuMVM5IDE4LjVTDYuMjUgMTUuNzVNOC4yNSAxN0wxMCA1LjI1TDExLjUgMy43NUwxMy41IDUuNzVMMTIgNy4yNUw4LjI1IDE3VjE3WiIvPjwvc3ZnPg==" alt="AKAEREウェブサイト"/>
     </a>
 </div>
 
