@@ -60,18 +60,19 @@ Storage:
 ## 🌐 Network Information
 
 ### Pysio NetWorks
+**Supports free downstream/peering for academic and research purposes only**
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://bgp.tools/as/213605">
         <img src="https://img.shields.io/badge/AS213605-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS213605"/>
     </a>
     <a href="https://bgp.tools/as/213605">
-        <img src="https://img.shields.io/badge/7_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
+        <img src="https://img.shields.io/badge/21_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
     </a>
     <a href="https://bgp.tools/as/213605">
         <img src="https://img.shields.io/badge/Anycast-Enabled-purple?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Anycast"/>
     </a>
     <a href="https://bgp.tools/as/213605">
-        <img src="https://img.shields.io/badge/%2327-CN_Peers-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="China Peers Ranking"/>
+        <img src="https://img.shields.io/badge/%235-CN_Peers-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="China Peers Ranking"/>
     </a>
     <a href="https://anycast.ink/lg">
         <img src="https://img.shields.io/badge/Looking_Glass-Status-orange?style=for-the-badge&logo=searxng&logoColor=white" alt="Looking Glass"/>
@@ -80,28 +81,29 @@ Storage:
 
 ```bash
 Network Information:
-  └─ ASN: AS213605 (PYSIO-NETWORK)
+  └─ ASN: AS213605 (Liu HaoRan)
   └─ Status: Active, Allocated under RIPE
-  └─ Registration: 2025-01-10 (2 months old)
-  └─ Type: Personal Network
-  └─ Prefixes: 0 IPv4, 7 IPv6
-  └─ Location: China 
+  └─ Registration: 2025-01-10 (7 months old)
+  └─ Type: Carrier
+  └─ Prefixes: 0 IPv4, 21 IPv6
+  └─ Website: https://www.pysio.online/en/
   └─ Upstreams:
+      └─ AS6939 - Hurricane Electric LLC
       └─ AS20473 - The Constant Company, LLC
-      └─ AS53667 - FranTech Solutions
-      └─ AS34927 - iFog GmbH
-      └─ AS3204 - xTom OU
       └─ AS7720 - Skywolf Technology LLC
+      └─ AS44324 - MoeDove LLC
+      └─ AS53667 - FranTech Solutions
+      └─ AS199310 - XIN BING XIAN
+      └─ AS209533 - iFog GmbH - BGPTunnel
+      └─ AS34927 - iFog GmbH
+      └─ AS51087 - Bling Network LLC
+      └─ AS3204 - xTom OU
   └─ Features:
-      └─ Personal ASN
-      └─ Anycast Enabled
       └─ IPv6 Only Network
+      └─ Anycast Enabled
   └─ Rankings:
-      └─ #27 for Known Peers in China
-  └─ FogIXP Peering LAN:
-      └─ IPv6 Address: 2001:7f8:ca:1::21:3605:1/64
-      └─ Peering Email: pysio@2.0.a.1.c.7.6.4.1.a.2.ip6.arpa
-      └─ NOC Contact: pysio@2.0.a.1.c.7.6.4.1.a.2.ip6.arpa (24x7)
+      └─ #33 for AS Cone in China
+      └─ #5 for Known Peers in China
 ```
 
 ### AKAERE NETWORKS TECHNOLOGY LTD
@@ -110,7 +112,7 @@ Network Information:
         <img src="https://img.shields.io/badge/AS210440-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS210440"/>
     </a>
     <a href="https://bgp.tools/as/210440">
-        <img src="https://img.shields.io/badge/1_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
+        <img src="https://img.shields.io/badge/2_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
     </a>
     <a href="https://akae.re/">
         <img src="https://img.shields.io/badge/AKAERE-Website-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyLjI1TDE5LjUgMy41TDMuNSAxOS41TDIuMjUgMTguMjVMMTguMjUgMi4yNU0xNS43NSA0LjVMMTYuNSAzLjc1TDE5LjUgNi43NUwyMC4yNSA2TDIxLjUgNy4yNUwxNy43NSAxMUwxNi41IDkuNzVMMTcuMjUgOUwxNC4yNSA2VjQuNUgxNS43NU02LjI1IDE1Ljc1TDQuNSAxNy41VjIwLjI1SDcuMjVMOSAxOC41TDYuMjUgMTUuNzVNOC4yNSAxN0wxMCA1LjI1TDExLjUgMy43NUwxMy41IDUuNzVMMTIgNy4yNUw4LjI1IDE3VjE3WiIvPjwvc3ZnPg==" alt="AKAERE Website"/>
@@ -121,16 +123,16 @@ Network Information:
 Network Information:
   └─ ASN: AS210440 (AKAERE NETWORKS TECHNOLOGY LTD)
   └─ Status: Active, Allocated under RIPE
-  └─ Registration: 2025-04-14 (0 months old)
-  └─ Type: Commercial Network
-  └─ Prefixes: 0 IPv4, 1 IPv6
+  └─ Registration: 2025-04-14 (4 months old)
+  └─ Type: Unknown
+  └─ Prefixes: 0 IPv4, 2 IPv6
   └─ Location: United Kingdom
+  └─ Website: https://akae.re/
   └─ Upstreams:
+      └─ AS213605 - Liu HaoRan
       └─ AS20473 - The Constant Company, LLC
   └─ Features:
-      └─ Commercial ASN
       └─ IPv6 Only Network
-  └─ Website: https://akae.re/
 ```
 
 ### Akaere IXP
@@ -180,78 +182,7 @@ Exchange Information:
           └─ Speed: 1G
 ```
 
-## 🔒 We Love Privacy
-<div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://metrics.torproject.org/rs.html#details/2F59BA21B8D07BE11FCD50C731CA5CAB638F624B">
-        <img src="https://img.shields.io/badge/Tor_Relay-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor Relay"/>
-    </a>
-    <a href="https://metrics.torproject.org/rs.html#search/family:2F59BA21B8D07BE11FCD50C731CA5CAB638F624B">
-        <img src="https://img.shields.io/badge/Exit_Node-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Exit Node"/>
-    </a>
-</div>
 
-```bash
-Tor Relay Information:
-  └─ Fingerprint: 2F59BA21B8D07BE11FCD50C731CA5CAB638F624B
-  └─ Platform: Tor 0.4.8.13 on Linux
-  └─ Addresses:
-      └─ IPv4: 104.244.74.229:9001
-      └─ IPv6: [2605:6400:30:f91b:8124:6a51:9ea2:5d13]:9001
-  └─ Exit Addresses:
-      └─ IPv4: 104.244.74.229
-  └─ Status:
-      └─ Flags: Exit, Fast, Running, V2Dir, Valid
-      └─ Additional: ReachableIPv6, IPv6 Exit
-  └─ Location: Luxembourg
-  └─ AS: AS53667 (FranTech Solutions)
-  └─ First Seen: 2025-02-20
-  └─ Exit Policy:
-      └─ IPv4/IPv6 Reject:
-          └─ Ports: 25, 119, 135-139, 445, 563
-          └─ Ports: 1214, 4661-4666, 6346-6429
-          └─ Ports: 6699, 6881-6999
-      └─ Networks:
-          └─ 0.0.0.0/8, 169.254.0.0/16
-          └─ 127.0.0.0/8, 192.168.0.0/16
-          └─ 10.0.0.0/8, 172.16.0.0/12
-      └─ Default: accept *:*
-```
-
-## 🌐 DN42 Network
-```bash
-DN42 Information:
-  └─ ASN: AS213605 (PYSIO-NETWORK)
-  └─ Status: Active
-  └─ Type: Personal Network
-  └─ Network Policy: Network nodes (except those in mainland China) do not peer with servers in mainland China
-  └─ Features:
-      └─ IPv4 Only
-      └─ WireGuard Only
-      └─ Looking Glass: https://anycast.ink/lg
-  └─ Prefix:
-      └─ DN42 IPv4: 172.20.183.0/27
-  └─ Peering:
-      └─ Status: Open
-      └─ Contact: team@pysio.online
-      └─ Required Info:
-          └─ ASN: 424242xxxx
-          └─ Public IP: x.x.x.x (IPv4)
-          └─ DN42 IPv4:
-          └─ Server: Your server name
-          └─ WireGuard Public Key:
-          └─ WireGuard Listen Port: 13605
-  └─ Nodes:
-      └─ Singapore:
-          └─ WireGuard Public Key: hIvaNhslwKskpJRYogahHaZJuCh5VMPm1wLwpvpYFkg=
-          └─ Endpoint: dn42.pysio.online:<Last 5 digits of your ASN>
-          └─ Public IP: dn42.pysio.online / 43.159.51.252
-          └─ DN42 IPv4: 172.20.183.1
-      └─ Chengdu, China (China Telecom):
-          └─ WireGuard Public Key: ViTlLbeCvEwYehAF6WbI7eekghVrkLoTbuhwzk0g0C8=
-          └─ Endpoint: home.pysio.online:<Last 5 digits of your ASN>
-          └─ Public IP: home.pysio.online (DDNS)
-          └─ DN42 IPv4: 172.20.183.2
-```
 
 ## ⚡ Tech Stack
 

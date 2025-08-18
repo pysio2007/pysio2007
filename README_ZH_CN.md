@@ -60,18 +60,19 @@ Storage:
 ## 🌐 网络信息
 
 ### Pysio NetWorks
+**支持免费下游/Peer 仅供学习和研究用途**
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://bgp.tools/as/213605">
         <img src="https://img.shields.io/badge/AS213605-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS213605"/>
     </a>
     <a href="https://bgp.tools/as/213605">
-        <img src="https://img.shields.io/badge/7_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
+        <img src="https://img.shields.io/badge/21_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
     </a>
     <a href="https://bgp.tools/as/213605">
         <img src="https://img.shields.io/badge/Anycast-Enabled-purple?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Anycast"/>
     </a>
     <a href="https://bgp.tools/as/213605">
-        <img src="https://img.shields.io/badge/%2327-CN_Peers-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="China Peers Ranking"/>
+        <img src="https://img.shields.io/badge/%235-CN_Peers-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="China Peers Ranking"/>
     </a>
     <a href="https://anycast.ink/lg">
         <img src="https://img.shields.io/badge/Looking_Glass-Status-orange?style=for-the-badge&logo=searxng&logoColor=white" alt="Looking Glass"/>
@@ -80,28 +81,29 @@ Storage:
 
 ```bash
 Network Information:
-  └─ ASN: AS213605 (PYSIO-NETWORK)
+  └─ ASN: AS213605 (Liu HaoRan)
   └─ 状态: 活跃, RIPE 注册
-  └─ 注册时间: 2025-01-10 (2个月前)
-  └─ 类型: 个人网络
-  └─ 前缀数量: 0个IPv4, 7个IPv6
-  └─ 位置: 中国 
+  └─ 注册时间: 2025-01-10 (7个月前)
+  └─ 类型: 运营商
+  └─ 前缀数量: 0个IPv4, 21个IPv6
+  └─ 官网: https://www.pysio.online/en/
   └─ 上游供应商:
+      └─ AS6939 - Hurricane Electric LLC
       └─ AS20473 - The Constant Company, LLC
-      └─ AS53667 - FranTech Solutions
-      └─ AS34927 - iFog GmbH
-      └─ AS3204 - xTom OU
       └─ AS7720 - Skywolf Technology LLC
+      └─ AS44324 - MoeDove LLC
+      └─ AS53667 - FranTech Solutions
+      └─ AS199310 - XIN BING XIAN
+      └─ AS209533 - iFog GmbH - BGPTunnel
+      └─ AS34927 - iFog GmbH
+      └─ AS51087 - Bling Network LLC
+      └─ AS3204 - xTom OU
   └─ 特性:
-      └─ 个人自治系统
-      └─ 任播已启用
       └─ 仅 IPv6 网络
+      └─ 任播已启用
   └─ 排名:
-      └─ 中国已知对等体排名第27位
-  └─ FogIXP 对等互联:
-      └─ IPv6 地址: 2001:7f8:ca:1::21:3605:1/64
-      └─ 对等互联邮箱: pysio@2.0.a.1.c.7.6.4.1.a.2.ip6.arpa
-      └─ 网络运维联系: pysio@2.0.a.1.c.7.6.4.1.a.2.ip6.arpa (24x7)
+      └─ 中国 AS 锥体排名第33位
+      └─ 中国已知对等体排名第5位
 ```
 
 ### AKAERE NETWORKS TECHNOLOGY LTD
@@ -110,7 +112,7 @@ Network Information:
         <img src="https://img.shields.io/badge/AS210440-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS210440"/>
     </a>
     <a href="https://bgp.tools/as/210440">
-        <img src="https://img.shields.io/badge/1_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
+        <img src="https://img.shields.io/badge/2_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
     </a>
     <a href="https://akae.re/">
         <img src="https://img.shields.io/badge/AKAERE-官网-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyLjI1TDE5LjUgMy41TDMuNSAxOS41TDIuMjUgMTguMjVMMTguMjUgMi4yNU0xNS43NSA0LjVMMTYuNSAzLjc1TDE5LjUgNi43NUwyMC4yNSA2TDIxLjUgNy4yNUwxNy43NSAxMUwxNi41IDkuNzVMMTcuMjUgOUwxNC4yNSA2VjQuNUgxNS43NU02LjI1IDE1Ljc1TDQuNSAxNy41VjIwLjI1SDcuMVM5IDE4LjVTDYuMjUgMTUuNzVNOC4yNSAxN0wxMCA1LjI1TDExLjUgMy43NUwxMy41IDUuNzVMMTIgNy4yNUw4LjI1IDE3VjE3WiIvPjwvc3ZnPg==" alt="AKAERE 官网"/>
@@ -121,16 +123,16 @@ Network Information:
 网络信息:
   └─ 自治系统号: AS210440 (AKAERE NETWORKS TECHNOLOGY LTD)
   └─ 状态: 活跃, RIPE 注册
-  └─ 注册时间: 2025-04-14 (0个月前)
-  └─ 类型: 商业网络
-  └─ 前缀数量: 0个IPv4, 1个IPv6
+  └─ 注册时间: 2025-04-14 (4个月前)
+  └─ 类型: 未知
+  └─ 前缀数量: 0个IPv4, 2个IPv6
   └─ 位置: 英国
+  └─ 官网: https://akae.re/
   └─ 上游供应商:
+      └─ AS213605 - Liu HaoRan
       └─ AS20473 - The Constant Company, LLC
   └─ 特性:
-      └─ 商业自治系统
       └─ 仅IPv6网络
-  └─ 官网: https://akae.re/
 ```
 
 ### Akaere IXP
@@ -180,41 +182,6 @@ Network Information:
           └─ 速率: 1G
 ```
 
-## 🌐 DN42 网络
-```bash
-DN42 网络信息:
-  └─ 自治系统号: AS213605 (PYSIO-NETWORK)
-  └─ 状态: 活跃
-  └─ 类型: 个人网络
-  └─ 网络策略: 本网络节点（中国大陆节点除外）不与中国大陆的服务器对等互联
-  └─ 特性:
-      └─ 仅 IPv4
-      └─ 仅 WireGuard
-      └─ 网络探测: https://anycast.ink/lg
-  └─ 地址段:
-      └─ DN42 IPv4: 172.20.183.0/27
-  └─ 对等互联:
-      └─ 状态: 开放
-      └─ 联系方式: team@pysio.online
-      └─ 所需信息:
-          └─ 自治系统号: 424242xxxx
-          └─ 公网 IP: x.x.x.x (使用 IPv4)
-          └─ DN42 IPv4 地址:
-          └─ 服务器名称: 你的服务器名称
-          └─ WireGuard 公钥:
-          └─ WireGuard 监听端口: 13605
-  └─ 节点列表:
-      └─ 新加坡:
-          └─ WireGuard 公钥: hIvaNhslwKskpJRYogahHaZJuCh5VMPm1wLwpvpYFkg=
-          └─ 连接端点: dn42.pysio.online:<您 ASN 的最后五位数字>
-          └─ 公网 IP: dn42.pysio.online / 43.159.51.252
-          └─ DN42 IPv4: 172.20.183.1
-      └─ 中国成都电信:
-          └─ WireGuard 公钥: ViTlLbeCvEwYehAF6WbI7eekghVrkLoTbuhwzk0g0C8=
-          └─ 连接端点: home.pysio.online:<您 ASN 的最后五位数字>
-          └─ 公网 IP: home.pysio.online (DDNS)
-          └─ DN42 IPv4: 172.20.183.2
-```
 
 ## ⚡ 技术栈
 

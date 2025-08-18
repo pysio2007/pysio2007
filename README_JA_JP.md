@@ -60,18 +60,19 @@ Storage:
 ## 🌐 ネットワーク情報
 
 ### Pysio NetWorks
+**学術・研究目的のみの無料ダウンストリーム/ピアリングをサポート**
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://bgp.tools/as/213605">
         <img src="https://img.shields.io/badge/AS213605-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS213605"/>
     </a>
     <a href="https://bgp.tools/as/213605">
-        <img src="https://img.shields.io/badge/7_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
+        <img src="https://img.shields.io/badge/21_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
     </a>
     <a href="https://bgp.tools/as/213605">
         <img src="https://img.shields.io/badge/Anycast-Enabled-purple?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Anycast"/>
     </a>
     <a href="https://bgp.tools/as/213605">
-        <img src="https://img.shields.io/badge/%2327-CN_Peers-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="China Peers Ranking"/>
+        <img src="https://img.shields.io/badge/%235-CN_Peers-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="China Peers Ranking"/>
     </a>
     <a href="https://anycast.ink/lg">
         <img src="https://img.shields.io/badge/Looking_Glass-Status-orange?style=for-the-badge&logo=searxng&logoColor=white" alt="Looking Glass"/>
@@ -80,28 +81,29 @@ Storage:
 
 ```bash
 ネットワーク情報:
-  └─ ASN: AS213605 (PYSIO-NETWORK)
+  └─ ASN: AS213605 (Liu HaoRan)
   └─ ステータス: アクティブ、RIPE登録
-  └─ 登録日: 2025-01-10 (2ヶ月前)
-  └─ タイプ: 個人ネットワーク
-  └─ プレフィックス: IPv4 0個、IPv6 7個
-  └─ 場所: 中国 
+  └─ 登録日: 2025-01-10 (7ヶ月前)
+  └─ タイプ: キャリア
+  └─ プレフィックス: IPv4 0個、IPv6 21個
+  └─ ウェブサイト: https://www.pysio.online/en/
   └─ アップストリーム:
+      └─ AS6939 - Hurricane Electric LLC
       └─ AS20473 - The Constant Company, LLC
-      └─ AS53667 - FranTech Solutions
-      └─ AS34927 - iFog GmbH
-      └─ AS3204 - xTom OU
       └─ AS7720 - Skywolf Technology LLC
+      └─ AS44324 - MoeDove LLC
+      └─ AS53667 - FranTech Solutions
+      └─ AS199310 - XIN BING XIAN
+      └─ AS209533 - iFog GmbH - BGPTunnel
+      └─ AS34927 - iFog GmbH
+      └─ AS51087 - Bling Network LLC
+      └─ AS3204 - xTom OU
   └─ 特徴:
-      └─ 個人AS
-      └─ Anycast有効
       └─ IPv6のみのネットワーク
+      └─ Anycast有効
   └─ ランキング:
-      └─ 中国の既知ピア数ランキング第27位
-  └─ FogIXPピアリングLAN:
-      └─ IPv6アドレス: 2001:7f8:ca:1::21:3605:1/64
-      └─ ピアリングメール: pysio@2.0.a.1.c.7.6.4.1.a.2.ip6.arpa
-      └─ NOC連絡先: pysio@2.0.a.1.c.7.6.4.1.a.2.ip6.arpa (24x7)
+      └─ 中国のASコーンランキング第33位
+      └─ 中国の既知ピア数ランキング第5位
 ```
 
 ### AKAERE NETWORKS TECHNOLOGY LTD
@@ -110,7 +112,7 @@ Storage:
         <img src="https://img.shields.io/badge/AS210440-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS210440"/>
     </a>
     <a href="https://bgp.tools/as/210440">
-        <img src="https://img.shields.io/badge/1_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
+        <img src="https://img.shields.io/badge/2_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
     </a>
     <a href="https://akae.re/">
         <img src="https://img.shields.io/badge/AKAERE-ウェブサイト-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyLjI1TDE5LjUgMy41TDMuNSAxOS41TDIuMjUgMTguMjVMMTguMjUgMi4yNU0xNS43NSA0LjVMMTYuNSAzLjc1TDE5LjUgNi43NUwyMC4yNSA2TDIxLjUgNy4yNUwxNy43NSAxMUwxNi41IDkuNzVMMTcuMjUgOUwxNC4yNSA2VjQuNUgxNS43NU02LjI1IDE1Ljc1TDQuNSAxNy41VjIwLjI1SDcuMVM5IDE4LjVTDYuMjUgMTUuNzVNOC4yNSAxN0wxMCA1LjI1TDExLjUgMy43NUwxMy41IDUuNzVMMTIgNy4yNUw4LjI1IDE3VjE3WiIvPjwvc3ZnPg==" alt="AKAEREウェブサイト"/>
@@ -121,16 +123,16 @@ Storage:
 ネットワーク情報:
   └─ ASN: AS210440 (AKAERE NETWORKS TECHNOLOGY LTD)
   └─ ステータス: アクティブ、RIPE登録
-  └─ 登録日: 2025-04-14 (0ヶ月前)
-  └─ タイプ: 商用ネットワーク
-  └─ プレフィックス: IPv4 0個、IPv6 1個
+  └─ 登録日: 2025-04-14 (4ヶ月前)
+  └─ タイプ: 不明
+  └─ プレフィックス: IPv4 0個、IPv6 2個
   └─ 場所: イギリス
+  └─ ウェブサイト: https://akae.re/
   └─ アップストリーム:
+      └─ AS213605 - Liu HaoRan
       └─ AS20473 - The Constant Company, LLC
   └─ 特徴:
-      └─ 商用AS
       └─ IPv6のみのネットワーク
-  └─ ウェブサイト: https://akae.re/
 ```
 
 ### Akaere IXP
@@ -180,78 +182,7 @@ Storage:
           └─ 速度: 1G
 ```
 
-## 🔒 プライバシーを大切に
-<div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://metrics.torproject.org/rs.html#details/2F59BA21B8D07BE11FCD50C731CA5CAB638F624B">
-        <img src="https://img.shields.io/badge/Tor_リレー-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor リレー"/>
-    </a>
-    <a href="https://metrics.torproject.org/rs.html#search/family:2F59BA21B8D07BE11FCD50C731CA5CAB638F624B">
-        <img src="https://img.shields.io/badge/出口ノード-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="出口ノード"/>
-    </a>
-</div>
 
-```bash
-Torリレー情報:
-  └─ フィンガープリント: 2F59BA21B8D07BE11FCD50C731CA5CAB638F624B
-  └─ プラットフォーム: Tor 0.4.8.13 on Linux
-  └─ アドレス:
-      └─ IPv4: 104.244.74.229:9001
-      └─ IPv6: [2605:6400:30:f91b:8124:6a51:9ea2:5d13]:9001
-  └─ 出口アドレス:
-      └─ IPv4: 104.244.74.229
-  └─ ステータス:
-      └─ フラグ: Exit, Fast, Running, V2Dir, Valid
-      └─ 追加: ReachableIPv6, IPv6 Exit
-  └─ 場所: ルクセンブルク
-  └─ AS: AS53667 (FranTech Solutions)
-  └─ 初回確認: 2025-02-20
-  └─ 出口ポリシー:
-      └─ IPv4/IPv6 拒否:
-          └─ ポート: 25, 119, 135-139, 445, 563
-          └─ ポート: 1214, 4661-4666, 6346-6429
-          └─ ポート: 6699, 6881-6999
-      └─ ネットワーク:
-          └─ 0.0.0.0/8, 169.254.0.0/16
-          └─ 127.0.0.0/8, 192.168.0.0/16
-          └─ 10.0.0.0/8, 172.16.0.0/12
-      └─ デフォルト: accept *:*
-```
-
-## 🌐 DN42 ネットワーク
-```bash
-DN42情報:
-  └─ ASN: AS213605 (PYSIO-NETWORK)
-  └─ ステータス: アクティブ
-  └─ タイプ: 個人ネットワーク
-  └─ ネットワークポリシー: ネットワークノード（中国本土のものを除く）は中国本土のサーバーとピアリングしません
-  └─ 特徴:
-      └─ IPv4のみ
-      └─ WireGuardのみ
-      └─ Looking Glass: https://anycast.ink/lg
-  └─ プレフィックス:
-      └─ DN42 IPv4: 172.20.183.0/27
-  └─ ピアリング:
-      └─ ステータス: オープン
-      └─ 連絡先: team@pysio.online
-      └─ 必要情報:
-          └─ ASN: 424242xxxx
-          └─ パブリックIP: x.x.x.x (IPv4)
-          └─ DN42 IPv4:
-          └─ サーバー: あなたのサーバー名
-          └─ WireGuard公開鍵:
-          └─ WireGuardリスニングポート: 13605
-  └─ ノード:
-      └─ シンガポール:
-          └─ WireGuard公開鍵: hIvaNhslwKskpJRYogahHaZJuCh5VMPm1wLwpvpYFkg=
-          └─ エンドポイント: dn42.pysio.online:<あなたのASNの最後の5桁>
-          └─ パブリックIP: dn42.pysio.online / 43.159.51.252
-          └─ DN42 IPv4: 172.20.183.1
-      └─ 中国成都 (China Telecom):
-          └─ WireGuard公開鍵: ViTlLbeCvEwYehAF6WbI7eekghVrkLoTbuhwzk0g0C8=
-          └─ エンドポイント: home.pysio.online:<あなたのASNの最後の5桁>
-          └─ パブリックIP: home.pysio.online (DDNS)
-          └─ DN42 IPv4: 172.20.183.2
-```
 
 ## ⚡ 技術スタック
 
