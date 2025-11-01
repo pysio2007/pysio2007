@@ -13,7 +13,7 @@
 - 🌱 常に学習し、成長しています...
 - 💻 プログラミングに情熱を持ち、フロントエンド開発に集中しています
 - 🌐 BGP Player | AS213605 オペレーター
-- 🔗 個人ネットワーク運営 | IPv6 Only + Anycast + AKAERE IXP
+- 🔗 個人ネットワーク運営 | デュアルスタック (IPv4 + IPv6) + Anycast + AKAERE IXP
 - 🏠 ホームページ: [Pysio's Home](https://www.pysio.online)
 - <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> 中国人、現在東京在住。アニメとゲームが大好き！
 - 言語：<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cn.svg" width="16" height="12" alt="CN" style="vertical-align: middle;"> 中国語（母国語）、<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg" width="16" height="12" alt="US" style="vertical-align: middle;"> 英語（流暢）、<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/jp.svg" width="16" height="12" alt="JP" style="vertical-align: middle;"> 日本語（勉強中）
@@ -66,13 +66,13 @@ Storage:
         <img src="https://img.shields.io/badge/AS213605-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS213605"/>
     </a>
     <a href="https://bgp.tools/as/213605">
-        <img src="https://img.shields.io/badge/21_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
+        <img src="https://img.shields.io/badge/1_IPv4_+_22_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="デュアルスタック"/>
     </a>
     <a href="https://bgp.tools/as/213605">
         <img src="https://img.shields.io/badge/Anycast-Enabled-purple?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Anycast"/>
     </a>
     <a href="https://bgp.tools/as/213605">
-        <img src="https://img.shields.io/badge/%235-CN_Peers-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="China Peers Ranking"/>
+        <img src="https://img.shields.io/badge/%233-CN_Peers-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="China Peers Ranking"/>
     </a>
     <a href="https://anycast.ink/lg">
         <img src="https://img.shields.io/badge/Looking_Glass-Status-orange?style=for-the-badge&logo=searxng&logoColor=white" alt="Looking Glass"/>
@@ -83,106 +83,27 @@ Storage:
 ネットワーク情報:
   └─ ASN: AS213605 (Liu HaoRan)
   └─ ステータス: アクティブ、RIPE登録
-  └─ 登録日: 2025-01-10 (7ヶ月前)
+  └─ 登録日: 2025-01-10 (9ヶ月前)
   └─ タイプ: キャリア
-  └─ プレフィックス: IPv4 0個、IPv6 21個
+  └─ プレフィックス: IPv4 1個、IPv6 22個
   └─ ウェブサイト: https://www.pysio.online/en/
   └─ アップストリーム:
-      └─ AS6939 - Hurricane Electric LLC
-      └─ AS20473 - The Constant Company, LLC
-      └─ AS7720 - Skywolf Technology LLC
       └─ AS44324 - MoeDove LLC
       └─ AS53667 - FranTech Solutions
-      └─ AS199310 - XIN BING XIAN
-      └─ AS209533 - iFog GmbH - BGPTunnel
+      └─ AS7720 - Skywolf Technology LLC
+      └─ AS6939 - Hurricane Electric LLC
       └─ AS34927 - iFog GmbH
       └─ AS51087 - Bling Network LLC
-      └─ AS3204 - xTom OU
+      └─ AS199310 - XIN BING XIAN
+      └─ AS17433 - Hytron Network Services Limited
   └─ 特徴:
-      └─ IPv6のみのネットワーク
+      └─ デュアルスタックネットワーク (IPv4 + IPv6)
       └─ Anycast有効
+      └─ Direct Feed
   └─ ランキング:
-      └─ 中国のASコーンランキング第33位
-      └─ 中国の既知ピア数ランキング第5位
+      └─ 中国のASコーンランキング第31位
+      └─ 中国の既知ピア数ランキング第3位
 ```
-
-### AKAERE NETWORKS TECHNOLOGY LTD
-<div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://bgp.tools/as/210440">
-        <img src="https://img.shields.io/badge/AS210440-Network-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwxIDIyLDEyQTEwLDEwIDAgMCwxIDEyLDIyQTEwLDEwIDAgMCwxIDIsMTJBMTAsMTAgMCAwLDEgMTIsMk0xMiw0QTgsOCAwIDAsMCA0LDEyQTgsOCAwIDAsMCAxMiwyMEE4LDggMCAwLDAgMjAsMTJBOCw4IDAgMCwwIDEyLDRNMTIsNkE2LDYgMCAwLDEgMTgsMTJBNiw2IDAgMCwxIDEyLDE4QTYsNiAwIDAsMSA2LDEyQTYsNiAwIDAsMSAxMiw2TTEyLDhBNCw0IDAgMCwwIDgsMTJBNCw0IDAgMCwwIDEyLDE2QTQsNCAwIDAsMCAxNiwxMkE0LDQgMCAwLDAgMTIsOFoiLz48L3N2Zz4=" alt="AS210440"/>
-    </a>
-    <a href="https://bgp.tools/as/210440">
-        <img src="https://img.shields.io/badge/2_IPv6-Network-green?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPv6 Only"/>
-    </a>
-    <a href="https://akae.re/">
-        <img src="https://img.shields.io/badge/AKAERE-ウェブサイト-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4yNSAyLjI1TDE5LjUgMy41TDMuNSAxOS41TDIuMjUgMTguMjVMMTguMjUgMi4yNU0xNS43NSA0LjVMMTYuNSAzLjc1TDE5LjUgNi43NUwyMC4yNSA2TDIxLjUgNy4yNUwxNy43NSAxMUwxNi41IDkuNzVMMTcuMjUgOUwxNC4yNSA2VjQuNUgxNS43NU02LjI1IDE1Ljc1TDQuNSAxNy41VjIwLjI1SDcuMVM5IDE4LjVTDYuMjUgMTUuNzVNOC4yNSAxN0wxMCA1LjI1TDExLjUgMy43NUwxMy41IDUuNzVMMTIgNy4yNUw4LjI1IDE3VjE3WiIvPjwvc3ZnPg==" alt="AKAEREウェブサイト"/>
-    </a>
-</div>
-
-```bash
-ネットワーク情報:
-  └─ ASN: AS210440 (AKAERE NETWORKS TECHNOLOGY LTD)
-  └─ ステータス: アクティブ、RIPE登録
-  └─ 登録日: 2025-04-14 (4ヶ月前)
-  └─ タイプ: 不明
-  └─ プレフィックス: IPv4 0個、IPv6 2個
-  └─ 場所: イギリス
-  └─ ウェブサイト: https://akae.re/
-  └─ アップストリーム:
-      └─ AS213605 - Liu HaoRan
-      └─ AS20473 - The Constant Company, LLC
-  └─ 特徴:
-      └─ IPv6のみのネットワーク
-```
-
-### Akaere IXP
-<div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://www.peeringdb.com/ix/4718">
-        <img src="https://img.shields.io/badge/AkaereIXP-交換ポイント-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMS45OSAxMkwyLjg1IDIySDYuNDNMMTQuODYgMTJMNi40MyAySDIuODVMMTEuOTkgMTJaIE0xNi4zOCAySDEyLjhMMjEuMjMgMTJMMTIuOCAyMkgxNi4zOEwyNS4xNSAxMkwxNi4zOCAyWiIvPjwvc3ZnPg==" alt="AkaereIXP"/>
-    </a>
-    <a href="https://ixpm.akae.re/">
-        <img src="https://img.shields.io/badge/IXP_マネージャー-ポータル-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNi4zNiAySDQuMzZDMy4zOSAyIDIuNSAyLjg5IDIuNSAzLjg2VjE4LjE0QzIuNSAxOS4xMSAzLjM5IDIwIDQuMzYgMjBIMjAuMzZDMjEuMzMgMjAgMjIuMjIgMTkuMTEgMjIuMjIgMTguMTRWN0gxNy4zNkMxNi44NCA3IDE2LjM2IDYuNTIgMTYuMzYgNlYyTTExLjk3IDEzLjdINi4zOVYxNC43SDExLjk3VjEzLjdNMTEuOTcgMTVIOC4zOVYxNkg5VjE3LjdIOS42NlYxNkgxMVYxNy43SDExLjY2VjE2SDExLjk3VjE1TTEzLjk3IDEyLjdINi4zOVYxMy43SDEzLjk3VjEyLjdNMTMuOTcgMTAuN0g2LjM5VjExLjdIMTMuOTdWMTAuN00yMy4zNSA2SDE3LjM2VjBMMjMuMzUgNk0xNC4zNiAxNS43VjE2LjdIMTUuMzZWMTUuN0gxNC4zNk0xMi45NyAxMy43VjE3LjdIMTYuOTdWMTMuN0gxMi45N00xNi4zNiAxNi43SDE0LjM2VjE0LjdIMTYuMzZWMTYuN1oiLz48L3N2Zz4=" alt="IXPマネージャーポータル"/>
-    </a>
-    <a href="https://www.peeringdb.com/ix/4718">
-        <img src="https://img.shields.io/badge/PeeringDB-4718-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDFDMS44OSAxIDEgMS44OSAxIDNWMTRDMSAxNS4xMSAxLjg5IDE2IDMgMTZIMTRDMTUuMTEgMTYgMTYgMTUuMTEgMTYgMTRWMTFIMTRWMTRIM1YzSDE0VjVIMTZWM0MxNiAxLjg5IDE1LjExIDEgMTQgMUgzTTEzIDVWOEgxMFYxMEgxM1YxM0gxNVYxMEgxOFY4SDE1VjVIMTNNN1YxOEgxOFYyMEg3VjE4TTcgMjBWMjJIMTBWMjBIN00xOCAyMFYyMkgyMVYyMEgxOCIvPjwvc3ZnPg==" alt="PeeringDBエントリ"/>
-    </a>
-</div>
-
-```bash
-交換ポイント情報:
-  └─ 名前: AkaereIXP
-  └─ 組織: AKAERE NETWORKS TECHNOLOGY LTD
-  └─ 別名: AKIX
-  └─ 都市: フランクフルト
-  └─ 国: ドイツ
-  └─ 地域: ヨーロッパ
-  └─ サービスレベル: 通常営業時間
-  └─ 規約: 商業的条件なし
-  └─ 最終更新: 2025-04-18T13:51:13Z
-  └─ 連絡先情報:
-      └─ 会社ウェブサイト: https://ixpm.akae.re/
-      └─ 技術連絡先: noc@akae.re
-      └─ ポリシー連絡先: noc@akae.re
-      └─ 営業連絡先: noc@akae.re
-      └─ ヘルスチェック: https://ixpm.akae.re/
-  └─ LAN MTU: 1500
-  └─ プレフィックス:
-      └─ IPv6: 2a14:67c1:a080::/64
-  └─ 施設:
-      └─ Digital Realty フランクフルト FRA1-16, ドイツ, フランクフルト
-  └─ ピア:
-      └─ Akaere-NetWork (AS210440)
-          └─ IPv6: 2a14:67c1:a080::1
-          └─ 速度: 1G
-      └─ Liu Zhen (AS213891)
-          └─ IPv6: 2a14:67c1:a080::101
-          └─ 速度: 1G
-      └─ Pysio-NetWork (AS213605)
-          └─ IPv6: 2a14:67c1:a080::100
-          └─ 速度: 1G
-```
-
-
 
 ## ⚡ 技術スタック
 
@@ -314,4 +235,4 @@ Storage:
     <img src="https://count.getloli.com/get/@pysio2007?theme=rule34" alt="訪問者数"/>
 </div>
 
-⭐️ From [pysio2007](https://github.com/pysio2007) 
+⭐️ From [pysio2007](https://github.com/pysio2007)
